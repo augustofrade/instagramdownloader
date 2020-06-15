@@ -39,7 +39,7 @@ downloader.getUserRecentPics('https://instagram.com/p/xxxxxxx', directory='insta
 ```
 
 ## Important
-The webdriver used in this application is Chromedriver.
+The webdriver for Selenium module used in this application is Chromedriver.
 To use the application make sure to have one in the same directory of this code named as "chromedriver.exe"
 To use others, specifiy in the line 17 the webdriver and it's path.  
 You can download chromedriver [here](https://sites.google.com/a/chromium.org/chromedriver/downloads).
