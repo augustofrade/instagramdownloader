@@ -1,6 +1,7 @@
 # Instagram Downloader  
 \
-Instagram image downloading made easy
+Instagram image downloading made easy.  
+Application made with python
 
 ## Setup
 Setting up your downloader is simple:
