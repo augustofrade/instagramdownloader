@@ -36,7 +36,7 @@ It has two functionalities (methods):
 ```
 downloader = InstaDownloader()
 downloader.getUserRecentPics('instagram', amount=3)
-downloader.getUserRecentPics('https://instagram.com/p/xxxxxxx', directory='insta/user_x')
+downloader.getPics('https://instagram.com/p/xxxxxxx', directory='insta/user_x')
 ```
 
 ## Important
